@@ -83,6 +83,17 @@
 
 ###
 
-<br clear="both">
+<!-- Additional Charts Section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" alt="Recent Activity Graph" width="100%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/rodrigomarcelo643/rodrigomarcelo643/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomarcelo643&theme=dracula&hide_border=true" alt="Streak Stats" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph">
+</div>
+
+<br clear="both">
