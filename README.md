@@ -1,10 +1,30 @@
 <h2 align="left">Hi 👋! My name is Marcelo Rodrigo and I'm a Web & App Developer from Cebu City</h2>
 
+<p align="center">
+  🚀 I'm an aspiring software engineer, passionate about building innovative and scalable applications! Currently, I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) but also have a strong background in **PHP**. I thrive in solving complex problems and enjoy crafting beautiful user experiences with clean, maintainable code. 📈
+</p>
+
+<p align="center">
+  💻 **Proficient Languages**:
+  - **JavaScript** (80%): The backbone of my development journey, powering dynamic and responsive web apps.
+  - **PHP** (50%): A versatile language that I use for backend development, especially with **Laravel**.
+</p>
+
+<p align="center">
+  ✨ **Portfolio Highlights**:
+  - Full-stack web applications using **React**, **Node.js**, and **MongoDB**.
+  - API integrations with **Firebase**, **Postman**, and other cloud services.
+  - Mobile development using **React Native** and **Expo**.
+  - Open-source contributions and personal projects.
+
+  Feel free to explore my projects and get a closer look at my work by checking out my **portfolio** or reaching out to discuss potential collaborations! 🌍
+</p>
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Marcelo Rodrigo stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&themeladracula&hide_border=false" height="150" alt="Top languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages"  />
 </div>
 
 ###
@@ -24,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
@@ -65,4 +85,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rodrigomarcelo643/rodrigomarcelo643/output/snake.svg" alt="Snake animation" />
