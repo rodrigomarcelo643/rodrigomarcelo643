@@ -83,17 +83,29 @@
 
 ###
 
-<!-- Additional Charts Section -->
+<!-- Additional Charts Section (Pie and Bar Graphs) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" alt="Recent Activity Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomarcelo643&theme=dracula&hide_border=true" alt="Streak Stats" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph">
+  <h3>Project Statistics</h3>
+  
+  <!-- Pie Charts for Projects -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 280px;">
+      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Old Projects','Latest Projects'],datasets:[{data:[40,60],backgroundColor:['#FF6384','#36A2EB']}]}}" alt="Projects Pie Chart" width="100%" />
+    </div>
+    
+    <div style="flex: 1; min-width: 280px;">
+      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Backend','Frontend','API'],datasets:[{data:[40,30,30],backgroundColor:['#FF6384','#36A2EB','#FFCE56']}]}}" alt="Project Focus Pie Chart" width="100%" />
+    </div>
+    
+    <div style="flex: 1; min-width: 280px;">
+      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Node.js','MongoDB'],datasets:[{data:[50,30,20],backgroundColor:['#61DAFB','#68A063','#4DB33D']}]}}" alt="Technologies Pie Chart" width="100%" />
+    </div>
+  </div>
+  
+  <!-- Bar Graph for Project Progress -->
+  <div style="margin-top: 20px;">
+    <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Old Projects','New Projects'],datasets:[{label:'Completion %',data:[70,90],backgroundColor:'rgba(75,192,192,0.2)',borderColor:'rgba(75,192,192,1)',borderWidth:1}]}}" alt="Project Progress Bar" width="100%" />
+  </div>
 </div>
 
 <br clear="both">
