@@ -84,16 +84,22 @@
 ###
 
 <!-- Additional Charts Section -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" alt="Recent Activity Graph" width="100%" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 280px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" alt="Recent Activity Graph" width="100%" />
+  </div>
+
+  <div style="flex: 1; min-width: 280px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomarcelo643&theme=dracula&hide_border=true" alt="Streak Stats" width="100%" />
+  </div>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigomarcelo643&theme=dracula&hide_border=true" alt="Streak Stats" width="100%" />
-</div>
-
+<!-- Repeat the Activity Graph at the bottom if desired -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomarcelo643&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph">
 </div>
+
 
 <br clear="both">
