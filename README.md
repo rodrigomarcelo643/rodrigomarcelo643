@@ -84,20 +84,20 @@
 ###
 
 <!-- Additional Charts Section (Pie and Bar Graphs) -->
-<div align="center">
+<div align="center flex ">
   <h3>Project Statistics</h3>
   
   <!-- Pie Charts for Projects -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 280px;">
-      <img src="https://quickchart.io/chart?c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Old%20Projects%27,%27Latest%20Projects%27%5D,datasets:%5B%7Bdata:%5B40,60%5D,backgroundColor:%5B%27%23FF6384%27,%27%2336A2EB%27%5D%7D%5D%7D%7D" alt="Projects Pie Chart" height= "250px" width="250px" />
+      <img src="https://quickchart.io/chart?c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Old%20Projects%27,%27Latest%20Projects%27%5D,datasets:%5B%7Bdata:%5B40,60%5D,backgroundColor:%5B%27%23FF6384%27,%27%2336A2EB%27%5D%7D%5D%7D%7D" alt="Projects Pie Chart" height= "250px" width="350px" />
     </div>
 
   </div>
   
   <!-- Bar Graph for Project Progress -->
   <div style="margin-top: 20px;">
-    <img src="https://quickchart.io/chart?c=%7Btype:%27bar%27,data:%7Blabels:%5B%27Old%20Projects%27,%27New%20Projects%27%5D,datasets:%5B%7Blabel:%27Completion%20%25%27,data:%5B70,90%5D,backgroundColor:%27rgba(75,192,192,0.2)%27,borderColor:%27rgba(75,192,192,1)%27,borderWidth:1%7D%5D%7D%7D" alt="Project Progress Bar" height= "250px" width="250px" />
+    <img src="https://quickchart.io/chart?c=%7Btype:%27bar%27,data:%7Blabels:%5B%27Old%20Projects%27,%27New%20Projects%27%5D,datasets:%5B%7Blabel:%27Completion%20%25%27,data:%5B70,90%5D,backgroundColor:%27rgba(75,192,192,0.2)%27,borderColor:%27rgba(75,192,192,1)%27,borderWidth:1%7D%5D%7D%7D" alt="Project Progress Bar" height= "250px" width="350px" />
   </div>
 </div>
 
