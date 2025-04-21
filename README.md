@@ -17,7 +17,7 @@
   - Mobile development using **React Native** and **Expo**.
   - Open-source contributions and personal projects.
 
-  Feel free to explore my projects and get a closer look at my work by checking out my **portfolio** or reaching out to discuss potential collaborations! 🌍
+  Feel free to explore my projects and get a closer look at my work by checking out my portfolio <a href="marcelo.tau.vercel.app"></a>or reaching out to discuss potential collaborations! 🌍
 </p>
 
 ###
