@@ -90,22 +90,23 @@
   <!-- Pie Charts for Projects -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 280px;">
-      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Old Projects','Latest Projects'],datasets:[{data:[40,60],backgroundColor:['#FF6384','#36A2EB']}]}}" alt="Projects Pie Chart" width="100%" />
+      <img src="https://quickchart.io/chart?c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Old%20Projects%27,%27Latest%20Projects%27%5D,datasets:%5B%7Bdata:%5B40,60%5D,backgroundColor:%5B%27%23FF6384%27,%27%2336A2EB%27%5D%7D%5D%7D%7D" alt="Projects Pie Chart" width="100%" />
     </div>
     
     <div style="flex: 1; min-width: 280px;">
-      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Backend','Frontend','API'],datasets:[{data:[40,30,30],backgroundColor:['#FF6384','#36A2EB','#FFCE56']}]}}" alt="Project Focus Pie Chart" width="100%" />
+      <img src="https://quickchart.io/chart?c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Backend%27,%27Frontend%27,%27API%27%5D,datasets:%5B%7Bdata:%5B40,30,30%5D,backgroundColor:%5B%27%23FF6384%27,%27%2336A2EB%27,%27%23FFCE56%27%5D%7D%5D%7D%7D" alt="Project Focus Pie Chart" width="100%" />
     </div>
     
     <div style="flex: 1; min-width: 280px;">
-      <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Node.js','MongoDB'],datasets:[{data:[50,30,20],backgroundColor:['#61DAFB','#68A063','#4DB33D']}]}}" alt="Technologies Pie Chart" width="100%" />
+      <img src="https://quickchart.io/chart?c=%7Btype:%27pie%27,data:%7Blabels:%5B%27React%27,%27Node.js%27,%27MongoDB%27%5D,datasets:%5B%7Bdata:%5B50,30,20%5D,backgroundColor:%5B%27%2361DAFB%27,%27%2368A063%27,%27%234DB33D%27%5D%7D%5D%7D%7D" alt="Technologies Pie Chart" width="100%" />
     </div>
   </div>
   
   <!-- Bar Graph for Project Progress -->
   <div style="margin-top: 20px;">
-    <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Old Projects','New Projects'],datasets:[{label:'Completion %',data:[70,90],backgroundColor:'rgba(75,192,192,0.2)',borderColor:'rgba(75,192,192,1)',borderWidth:1}]}}" alt="Project Progress Bar" width="100%" />
+    <img src="https://quickchart.io/chart?c=%7Btype:%27bar%27,data:%7Blabels:%5B%27Old%20Projects%27,%27New%20Projects%27%5D,datasets:%5B%7Blabel:%27Completion%20%25%27,data:%5B70,90%5D,backgroundColor:%27rgba(75,192,192,0.2)%27,borderColor:%27rgba(75,192,192,1)%27,borderWidth:1%7D%5D%7D%7D" alt="Project Progress Bar" width="100%" />
   </div>
 </div>
+
 
 <br clear="both">
