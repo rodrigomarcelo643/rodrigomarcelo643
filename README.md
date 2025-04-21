@@ -1,23 +1,23 @@
 <h2 align="left">Hi 👋! My name is Marcelo Rodrigo and I'm a Web & App Developer from Cebu City</h2>
 
 <p align="center">
-  🚀 I'm an aspiring software engineer, passionate about building innovative and scalable applications! Currently, I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) but also have a strong background in **PHP**. I thrive in solving complex problems and enjoy crafting beautiful user experiences with clean, maintainable code. 📈
+  🚀 I'm an aspiring software engineer, passionate about building innovative and scalable applications! Currently, I specialize in the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js) but also have a strong background in <strong>PHP</strong>. I thrive in solving complex problems and enjoy crafting beautiful user experiences with clean, maintainable code. 📈
 </p>
 
 <p align="center">
-  💻 **Proficient Languages**:
-  - **JavaScript** (80%): The backbone of my development journey, powering dynamic and responsive web apps.
-  - **PHP** (50%): A versatile language that I use for backend development, especially with **Laravel**.
+  💻 <strong>Proficient Languages</strong>:
+  - <strong>JavaScript</strong> (80%): The backbone of my development journey, powering dynamic and responsive web apps.
+  - <strong>PHP</strong> (50%): A versatile language that I use for backend development, especially with <strong>Laravel</strong>.
 </p>
 
 <p align="center">
-  ✨ **Portfolio Highlights**:
-  - Full-stack web applications using **React**, **Node.js**, and **MongoDB**.
-  - API integrations with **Firebase**, **Postman**, and other cloud services.
-  - Mobile development using **React Native** and **Expo**.
+  ✨ <strong>Portfolio Highlights</strong>:
+  - Full-stack web applications using <strong>React</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.
+  - API integrations with <strong>Firebase</strong>, <strong>Postman</strong>, and other cloud services.
+  - Mobile development using <strong>React Native</strong> and <strong>Expo</strong>.
   - Open-source contributions and personal projects.
 
-  Feel free to explore my projects and get a closer look at my work by checking out my **portfolio** or reaching out to discuss potential collaborations! 🌍
+  Feel free to explore my projects and get a closer look at my work by checking out my <strong>portfolio</strong> or reaching out to discuss potential collaborations! 🌍
 </p>
 
 ###
@@ -34,6 +34,7 @@
 ###
 
 <div align="left">
+  <!-- Core Dev Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
@@ -59,6 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <!-- New Additions -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
 </div>
 
 ###
@@ -68,8 +74,8 @@
   <img src="https://img.shields.io/badge/Redux_Toolkit-593d88?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="Redux Toolkit" />
   <img src="https://img.shields.io/static/v1?message=React+Native&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="React Native" />
   <img src="https://img.shields.io/static/v1?message=Expo&logo=expo&label=&color=000020&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Expo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="Bootstrap" />
 </div>
-
-
 
 <br clear="both">
