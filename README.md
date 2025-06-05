@@ -1,19 +1,19 @@
 <h2 align="left">Hi 👋! I'm Marcelo Rodrigo | Full-Stack Developer</h2>
 
-<p align="center">
+<p align="start">
   🔥 Building scalable web & mobile apps with <strong>MERN Stack</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
 </p>
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxYmppcjFhYjJnbDRzeTV0cGM1NzJxdnFhNnlmMTVmbGlqY2xvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="start" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxYmppcjFhYjJnbDRzeTV0cGM1NzJxdnFhNnlmMTVmbGlqY2xvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -69,13 +69,13 @@
 ###
 
 <div align="left">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:rodrigomarcelo643@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/marcelo-rodrigo-205100295/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://marcelo-tau.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </div>
