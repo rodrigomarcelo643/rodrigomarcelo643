@@ -6,17 +6,8 @@
 <h3>🚀 Core Tech Stack</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React Native" title="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express" style="filter: invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nodejs,express,php,laravel&theme=dark&perline=6" alt="Skill Icons" />
+
 </div>
 <h3>📊 Skill Proficiency</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nodejs,express,mongodb,java,androidstudio,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
