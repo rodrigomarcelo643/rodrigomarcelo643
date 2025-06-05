@@ -14,12 +14,8 @@
 
 ###
 
-<h3>📊 Skill Radar</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=rodrigomarcelo643&theme=dracula" height="220" alt="Skill Radar" />
+<h3>🚀 Core Tech Stack</h3>
 
-###
-
-<h3>💻 Core Tech Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -33,8 +29,36 @@
 
 ###
 
-<h3>📌 Skill Icons</h3>
+<h3>📊 Skill Proficiency</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
+###
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h3>📈 What I Deliver</h3>
+    <ul>
+      <li>High-performance web & mobile apps</li>
+      <li>TypeScript-powered clean code</li>
+      <li>Responsive UI/UX with modern frameworks</li>
+      <li>RESTful APIs & database solutions</li>
+      <li>End-to-end project execution</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🛠️ Tools & More</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </div>
+  </div>
+</div>
 
 ###
 
