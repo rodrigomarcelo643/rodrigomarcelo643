@@ -32,8 +32,13 @@
 <h3>📊 Skill Proficiency</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
 
-<h3>📌 Skill Radar</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=rodrigomarcelo643&theme=dracula" height="200" alt="Skill Radar" />
+<h3>📌 Skill Radar (CRUS Graph)</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=rodrigomarcelo643&theme=github_dark" height="200" alt="Skill Radar" />
+
+<!-- ⚠️ Fallback if the above does not load:
+Visit this once to cache your profile data:
+https://github-profile-summary-cards.vercel.app/api/cards/skills?username=rodrigomarcelo643
+-->
 
 ###
 
