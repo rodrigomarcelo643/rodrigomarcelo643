@@ -6,7 +6,7 @@
 <h3>🚀 Core Tech Stack</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nodejs,express,php,laravel&theme=dark&perline=6" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,laravel&theme=dark&perline=6" alt="Skill Icons" />
 
 </div>
 <h3>📊 Skill Proficiency</h3>
