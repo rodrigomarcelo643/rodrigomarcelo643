@@ -6,36 +6,31 @@
 
 ###
 
-<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomarcelo643&theme=dracula" height="180" alt="activity-graph" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomarcelo643&theme=dracula" height="180" alt="GitHub Summary" />
 </div>
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
-  <div style="flex: 1;">
-    <h3>🚀 Core Tech Stack</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" style="background-color: white" title="Express" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-    </div>
-  </div>
+<h3>🚀 Core Tech Stack</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
 </div>
 
 ###
 
-<div>
-  <h3>📊 Skill Proficiency</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill icons" />
-</div>
+<h3>📊 Skill Proficiency</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
 
 ###
 
@@ -54,14 +49,14 @@
   <div style="flex: 1; min-width: 300px;">
     <h3>🛠️ Tools & More</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30" alt="React Native" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30" alt="Redux" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" alt="VS Code" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </div>
   </div>
 </div>
