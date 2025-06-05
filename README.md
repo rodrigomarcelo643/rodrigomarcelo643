@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomarcelo643&theme=dracula" height="180" alt="activity-graph" />
