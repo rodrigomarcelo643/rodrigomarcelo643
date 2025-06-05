@@ -24,11 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
 </div>
 
-###
-
 <h3>📊 Skill Proficiency</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
-###
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
@@ -56,9 +53,6 @@
     </div>
   </div>
 </div>
-
-###
-
 <h3>💡 Let's build something amazing together!</h3>
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
