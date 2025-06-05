@@ -28,7 +28,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
     </div>
   </div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndxYmppcjFhYjJnbDRzeTV0cGM1NzJxdnFhNnlmMTVmbGlqY2xvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" alt="Coding gif" style="border-radius: 10px;" />
 </div>
 
 ###
