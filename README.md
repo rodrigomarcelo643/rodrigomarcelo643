@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Marcelo Rodrigo | Full-Stack Developer</h2>
 
 <p align="center">
-  🔥 Building scalable web & mobile apps with <strong>MERN Stack</strong> & <strong>TypeScript</strong> | PHP/Laravel Expert | Open to collaborations
+  🔥 Building scalable web & mobile apps with <strong>MERN Stack</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
 </p>
 
 ###
