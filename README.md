@@ -7,7 +7,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,laravel&theme=dark&perline=6" alt="Skill Icons" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React Native" title="React Native" />
 
 </div>
 <h3>📊 Skill Proficiency</h3>
