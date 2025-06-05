@@ -31,10 +31,9 @@
 
 <h3>📊 Skill Proficiency</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
+<h3>📌 Skill Radar</h3>
+<img src="https://i.imgur.com/7VkcZQh.png" alt="Skill Radar" height="220" />
 
-<h3>📌 Skill Radar (Custom Radar Chart)</h3>
-<!-- Replace the src below with your actual hosted radar chart image URL -->
-<img src="https://i.imgur.com/your_uploaded_radar_chart.png" alt="Skill Radar" height="220" />
 
 ###
 
