@@ -3,8 +3,6 @@
 <p align="left">
   🔥 Building scalable web & mobile apps with <strong>MERN Stack</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
 </p>
-
-###
 <h3>🚀 Core Tech Stack</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
