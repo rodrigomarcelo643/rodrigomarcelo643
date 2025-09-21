@@ -25,7 +25,7 @@
     <ul>
       <li>High-performance web & cross-platform mobile apps with React Native/Expo</li>
       <li>TypeScript-powered clean code</li>
-      <li>Native Android (Java) and cross-platform (React Native/Expo) solutions</li>
+      <li>Native Android (Java, Kotlin) and cross-platform (React Native/Expo) solutions</li>
       <li>Responsive UI/UX with modern frameworks</li>
       <li>RESTful APIs & database solutions</li>
       <li>End-to-end project execution</li>
