@@ -7,11 +7,11 @@
 <h3>🚀 Core Tech Stack</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,expo,php,laravel&theme=dark&perline=6" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,expo,php,laravel&theme=dark&perline=6" alt="Core Tech Stack" />
 </div>
 
 <h3>📊 Skill Proficiency</h3>
-<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,expo,nodejs,express,mongodb,java,androidstudio,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,expo,nodejs,express,mongodb,java,androidstudio,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Proficiency" />
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
