@@ -16,7 +16,7 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=rodrigomarcelo643&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomarcelo643&theme=dracula" height="180" alt="GitHub Summary" />
 </div>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -56,15 +56,6 @@
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
     </div>
   </div>
-</div>
-
-<h3>💼 GitHub Activity</h3>
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/github/issues/rodrigomarcelo643/rodrigomarcelo643?style=for-the-badge&color=purple" alt="Code Issues" />
-  <img src="https://img.shields.io/github/issues-pr/rodrigomarcelo643/rodrigomarcelo643?style=for-the-badge&color=blue" alt="Pull Requests" />
-  <img src="https://img.shields.io/github/commit-activity/m/rodrigomarcelo643/rodrigomarcelo643?style=for-the-badge&color=green" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/last-commit/rodrigomarcelo643/rodrigomarcelo643?style=for-the-badge&color=orange" alt="Last Commit" />
 </div>
 
 <h3>💡 Let's build something amazing together!</h3>
