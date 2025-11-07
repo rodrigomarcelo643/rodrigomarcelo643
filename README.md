@@ -10,15 +10,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,expo,php,laravel&theme=dark&perline=6" alt="Core Tech Stack" />
 </div>
 
-<h3>📊 Skill Proficiency</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,expo,nodejs,express,mongodb,java,androidstudio,php,laravel,tailwind,redux,firebase,postman&theme=dark&perline=6" alt="Skill Proficiency" />
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomarcelo643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomarcelo643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomarcelo643&theme=dracula" height="180" alt="GitHub Summary" />
-</div>
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <h3>📈 What I Deliver</h3>
