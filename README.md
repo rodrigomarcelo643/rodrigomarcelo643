@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Marcelo Rodrigo | Full-Stack Web & Mobile Developer</h2>
 
 <p align="left">
-  🔥 Building scalable web & mobile apps with <strong>MERN Stack</strong>, <strong>React Native/Expo</strong>, <strong>Java/Android</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
+  🔥 Building scalable web & mobile apps with <strong>React Native/Expo</strong>, <strong>Java/Android</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
 </p>
 
 <h3>🚀 Core Tech Stack</h3>
