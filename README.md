@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Marcelo Rodrigo </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" alt="Banner GIF" />
 </p>
 
