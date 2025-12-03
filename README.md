@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./typing_gif.gif" width="325" height="300" alt="Typing GIF" />
+  <img src="./typing_gif.gif" width="100%"  alt="Typing GIF" />
 </p>
 
 <p align="center">
