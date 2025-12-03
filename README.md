@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Marcelo Rodrigo | Full-Stack Web & Mobile Developer</h2>
+<h2 align="left">Hi 👋! I'm Marcelo Rodrigo </h2>
 
 <p align="left">
   🔥 Building scalable web & mobile apps with <strong>React Native/Expo</strong>, <strong>Java/Android</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
