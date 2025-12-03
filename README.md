@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./typing_gif.gif" width="300" alt="Typing GIF" />
+  <img src="./typing_gif.gif" width="650" alt="Typing GIF" />
 </p>
 
 <p align="center">
@@ -7,7 +7,8 @@
 </p>
 
 <p align="left">
-  🔥 Building scalable web & mobile apps with <strong>React Native/Expo</strong>, <strong>Java/Android</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
+  🔥 Building scalable web & mobile apps with <strong>React Native/Expo</strong>, 
+  <strong>Java/Android</strong> & <strong>TypeScript</strong> | PHP/Laravel | Open to collaborations
 </p>
 
 <h3>🚀 Core Tech Stack</h3>
