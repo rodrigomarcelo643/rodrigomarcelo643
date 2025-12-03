@@ -49,19 +49,3 @@
   </div>
 </div>
 
-<h3>💡 Let's build something amazing together!</h3>
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <a href="mailto:rodrigomarcelo643@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcelo-rodrigo-205100295/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://marcelo-tau.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/rodrigomarcelo643?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Projects&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Projects" />
-  </a>
-</div>
