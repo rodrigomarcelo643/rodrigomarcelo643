@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Marcelo Rodrigo </h2>
 
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" width="100%" alt="Banner GIF" />
+  <img src="[https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI](https://i.redd.it/n8agw6z2smyb1.gif)" width="100%" height="60%" alt="Banner GIF" />
 </p>
 
 <p align="left">
