@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="./typing_gif.gif" width="100%"  alt="Typing GIF" />
+  <img src="./typing_gif.gif" width="100%" style="border-radius: 12px;" alt="Typing GIF" />
 </p>
 
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" alt="Banner GIF" />
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" style="border-radius: 12px;" alt="Banner GIF" />
 </p>
 
 <p align="left">
