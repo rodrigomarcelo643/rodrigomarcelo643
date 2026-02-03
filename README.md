@@ -12,9 +12,8 @@
 </p>
 
 <h3>🚀 Core Tech Stack</h3>
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,laravel&theme=dark&perline=6" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,php,laravel&theme=dark&perline=6" alt="Core Tech Stack" />
 </div>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
