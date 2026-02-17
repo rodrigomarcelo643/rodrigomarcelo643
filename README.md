@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="cat.gif" width="100%" height="60%" style="border-radius: 12px;" alt="Banner GIF" />
+  <img src="giphy.gif" width="100%" height="60%" style="border-radius: 12px;" alt="Banner GIF" />
 </p>
 
 <p align="left">
