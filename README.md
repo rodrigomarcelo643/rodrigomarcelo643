@@ -2,8 +2,8 @@
   <img src="./TextStudio-Typewriter.gif" width="100%" style="border-radius: 12px;" alt="Typing GIF" />
 </p>
 
-<p align="center">
-  <img src="cat.gif" width="60%" style="border-radius: 12px;" alt="Banner GIF" />
+<p align="left">
+  <img src="cat.gif" width="40%" style="border-radius: 12px;" alt="Banner GIF" />
 </p>
 
 <p align="left">
