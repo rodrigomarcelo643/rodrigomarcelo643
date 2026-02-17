@@ -2,7 +2,7 @@
   <img src="./TextStudio-Typewriter.gif" width="100%" style="border-radius: 12px;" alt="Typing GIF" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="giphy.gif" width="60%" style="border-radius: 12px;" alt="Banner GIF" />
 </p>
 
